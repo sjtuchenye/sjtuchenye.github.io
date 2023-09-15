@@ -16,4 +16,4 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 <font color=green> Editable Image Geometric Abstraction via Neural Primitive Assembly </font> 
 
 __Ye Chen__, Bingbing Ni, Xuanhong Chen, Zhangli Hu.  
-ICCV, 2023
+_ICCV, 2023_
