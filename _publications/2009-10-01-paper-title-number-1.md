@@ -1,9 +1,9 @@
-
+---
 title: "Editable Image Geometric Abstraction via Neural Primitive Assembly"
 collection: publications
 venue: 'ICCV 2023'
 paperurl: ''
-
+---
 # This paper is about the number 1. The number 2 is left for future work.
 
 # [Download paper here](http://academicpages.github.io/files/paper1.pdf)
