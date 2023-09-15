@@ -13,6 +13,8 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 [Google Scholar](https://scholar.google.com/citations?user=LzqvnCoAAAAJ&hl=zh-CN)   /   [E-mail](mailto:chenye123@sjtu.edu.cn) /     [Github](https://github.com/sjtuchenye)
 
 # Selected Publications
-<font color=green> Editable Image Geometric Abstraction via Neural Primitive Assembly <\font>
-Ye Chen, Bingbing Ni, Xuanhong Chen, Zhangli Hu.
+<font color=green> Editable Image Geometric Abstraction via Neural Primitive Assembly  
+
+<strong>Ye Chen<\strong>, Bingbing Ni, Xuanhong Chen, Zhangli Hu.  
+
 ICCV, 2023
