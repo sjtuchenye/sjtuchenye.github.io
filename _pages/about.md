@@ -19,15 +19,15 @@ Published in _ICCV, 2023_.
 
 <font color=green> Inferring Fluid Dynamics via Inverse Rendering </font>   
 Jinxian Liu\*, __Ye Chen__\*, Bingbing Ni, Jiyao Mao, Zhenbo Yu. (\* equal contribution)  
-_Preprint_, _[Arxiv](https://arxiv.org/pdf/2304.04446), 2023_
+_Preprint, Arxiv, 2023_. [\[Paper\]](https://arxiv.org/pdf/2304.04446)
 
 <font color=green> Fast Fluid Simulation via Dynamic Multi-Scale Gridding </font>  
 Jinxian Liu, __Ye Chen__, Bingbing Ni, Wei Ren, Zhenbo Yu, Xiaoyang Huang.  
-Published in _[AAAI](https://ojs.aaai.org/index.php/AAAI/article/download/25255/25027), 2023_.
+Published in _AAAI, 2023_. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/download/25255/25027)
 
 <font color=green> Learning by Restoring Broken 3D Geometry </font>  
 Jinxian Liu, Bingbing Ni, __Ye Chen__, Zhenbo Yu, Hang Wang.  
-Published in _[T-PAMI](https://ieeexplore.ieee.org/iel7/34/4359286/10091218.pdf), 2023_.
+Published in _T-PAMI, 2023_. [\[Paper\]](https://ieeexplore.ieee.org/iel7/34/4359286/10091218.pdf)
 
 <font color=green> Joint Global and Dynamic Pseudo Labeling for Semi-Supervised Point Cloud Sequence Segmentation </font>  
 Jinxian Liu, __Ye Chen__, Bingbing Ni, Zhenbo Yu.  
@@ -35,11 +35,11 @@ Published in _T-CSVT, 2023_.
 
 <font color=green> Shape self-correction for unsupervised point cloud understanding </font>  
 __Ye Chen__, Jinxian Liu, Bingbing Ni, Hang Wang, Jiancheng Yang, Ning Liu, Teng Li, Qi Tian.   
-Published in _[ICCV](http://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Shape_Self-Correction_for_Unsupervised_Point_Cloud_Understanding_ICCV_2021_paper.pdf), 2021_.
+Published in _ICCV, 2021_. [\[Paper\]](http://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Shape_Self-Correction_for_Unsupervised_Point_Cloud_Understanding_ICCV_2021_paper.pdf)
 
 <font color=green> Self-prediction for joint instance and semantic segmentation of point clouds </font>  
 Jinxian Liu, Minghui Yu, Bingbing Ni, __Ye Chen__.  
-Published in _[ECCV](https://arxiv.org/pdf/2007.13344), 2020_.
+Published in _ECCV, 2020_. [\[Paper\]](https://arxiv.org/pdf/2007.13344)
 
 
 # Selected Honors
