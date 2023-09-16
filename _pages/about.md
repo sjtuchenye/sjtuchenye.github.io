@@ -35,7 +35,7 @@ _[T-CSVT](), 2023_
 
 <font color=green> Shape self-correction for unsupervised point cloud understanding </font>  
 __Ye Chen__, Jinxian Liu, Bingbing Ni, Hang Wang, Jiancheng Yang, Ning Liu, Teng Li, Qi Tian.   
-_[ICCV](http://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Shape_Self-Correction_for_Unsupervised_Point_Cloud_Understanding_ICCV_2021_paper.pdf),2021_
+_[ICCV](http://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Shape_Self-Correction_for_Unsupervised_Point_Cloud_Understanding_ICCV_2021_paper.pdf), 2021_
 
 
 
