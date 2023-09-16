@@ -43,7 +43,7 @@ Published in _[ECCV](https://arxiv.org/pdf/2007.13344), 2020_.
 
 
 # Selected Honors
-\[2023\] Shanghai Outstanding Graduates.   
+\[2023\] Shanghai Outstanding Graduates (上海市优秀毕业生).   
 \[2022\] NRIEE Scholarship (中电莱斯奖学金).  
 \[2020\] Shanghai Jiao Tong University Outstanding Graduates.  
 \[2016\] Shanghai Jiao Tong University Zhiyuan Honors Class.  
