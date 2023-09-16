@@ -19,7 +19,7 @@ Published in _ICCV, 2023_.
 
 <font color=green> Inferring Fluid Dynamics via Inverse Rendering </font>   
 Jinxian Liu\*, __Ye Chen__\*, Bingbing Ni, Jiyao Mao, Zhenbo Yu. (\* equal contribution)  
-Preprint _[Arxiv](https://arxiv.org/pdf/2304.04446), 2023_
+_Preprint_, _[Arxiv](https://arxiv.org/pdf/2304.04446), 2023_
 
 <font color=green> Fast Fluid Simulation via Dynamic Multi-Scale Gridding </font>  
 Jinxian Liu, __Ye Chen__, Bingbing Ni, Wei Ren, Zhenbo Yu, Xiaoyang Huang.  
