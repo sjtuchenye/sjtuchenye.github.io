@@ -23,7 +23,7 @@ _[Arxiv](https://arxiv.org/pdf/2304.04446), 2023_
 
 <font color=green> Fast Fluid Simulation via Dynamic Multi-Scale Gridding </font>  
 Jinxian Liu, __Ye Chen__, Bingbing Ni, Wei Ren, Zhenbo Yu, Xiaoyang Huang.  
-_[AAAI](https://ojs.aaai.org/index.php/AAAI/article/download/25255/25027),2023_
+_[AAAI](https://ojs.aaai.org/index.php/AAAI/article/download/25255/25027), 2023_
 
 <font color=green> Learning by Restoring Broken 3D Geometry </font>  
 Jinxian Liu, Bingbing Ni, __Ye Chen__, Zhenbo Yu, Hang Wang.  
