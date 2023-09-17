@@ -46,7 +46,7 @@ Published in _ECCV, 2020_. [\[Paper\]](https://arxiv.org/pdf/2007.13344)
 \[2023\] Shanghai Outstanding Graduates (上海市优秀毕业生).   
 \[2022\] NRIEE Scholarship (中电莱斯奖学金).  
 \[2020\] Shanghai Jiao Tong University Outstanding Graduates.  
-\[2016\] Shanghai Jiao Tong University Zhiyuan Honors Class.  
+\[2016\] Shanghai Jiao Tong University Zhiyuan Honor Class.  
 \[2015\] First Prize in the National High School Physics Competition.
 
 
