@@ -15,7 +15,7 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 # Selected Publications
 <font color=green> Editable Image Geometric Abstraction via Neural Primitive Assembly </font>    
 __Ye Chen__, Bingbing Ni, Xuanhong Chen, Zhangli Hu.  
-Published in _ICCV, 2023_.
+Published in _ICCV, 2023_. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Editable_Image_Geometric_Abstraction_via_Neural_Primitive_Assembly_ICCV_2023_paper.pdf)
 
 <font color=green> Inferring Fluid Dynamics via Inverse Rendering </font>   
 Jinxian Liu\*, __Ye Chen__\*, Bingbing Ni, Jiyao Mao, Zhenbo Yu. (\* equal contribution)  
