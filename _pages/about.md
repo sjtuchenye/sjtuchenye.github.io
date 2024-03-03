@@ -14,11 +14,8 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 
 # News
 [2024/02] Two papers on Image Vectorization and Vector Graphics Generation accepted to CVPR2024! See you in Seattle!
-
 [2023/07] One paper on Image Vectorization accepted to ICCV2023!
-
 [2023/09] Start my PhD journey with Prof. Bingbing Ni!
-
 [2023/03] Obtain master degree with Shanghai Outstanding Graduates from SJTU!
 
 
