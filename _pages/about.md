@@ -21,6 +21,14 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 
 
 # Selected Publications
+<font color=green> Towards High-fidelity Artistic Image Vectorization via Texture-Encapsulated Shape Parameterization </font>    
+__Ye Chen__, Bingbing Ni, Jinfan Liu, Xiaoyang Huang, Xuanhong Chen.  
+Published in _CVPR, 2024. [To Do]()   
+
+<font color=green> Vector Graphics Generation via Mutually Impulsed Dual-domain Diffusion </font>    
+Zhongyin Zhao, __Ye Chen__, Zhangli Hu, Xuanhong Chen, Bingbing Ni.  
+Published in _CVPR, 2024. [To Do]()  
+
 <font color=green> Editable Image Geometric Abstraction via Neural Primitive Assembly </font>    
 __Ye Chen__, Bingbing Ni, Xuanhong Chen, Zhangli Hu.  
 Published in _ICCV, 2023_. [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Editable_Image_Geometric_Abstraction_via_Neural_Primitive_Assembly_ICCV_2023_paper.pdf)
