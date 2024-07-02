@@ -48,7 +48,7 @@ Published in _T-PAMI, 2023_. [\[Paper\]](https://ieeexplore.ieee.org/iel7/34/435
 
 <font color=green> Joint Global and Dynamic Pseudo Labeling for Semi-Supervised Point Cloud Sequence Segmentation </font>  
 Jinxian Liu, __Ye Chen__, Bingbing Ni, Zhenbo Yu.  
-Published in _T-CSVT, 2023_.
+Published in _T-CSVT, 2023_. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10061266)
 
 <font color=green> Shape self-correction for unsupervised point cloud understanding </font>  
 __Ye Chen__, Jinxian Liu, Bingbing Ni, Hang Wang, Jiancheng Yang, Ning Liu, Teng Li, Qi Tian.   
