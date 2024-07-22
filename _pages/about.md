@@ -13,12 +13,13 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 [Google Scholar](https://scholar.google.com/citations?user=LzqvnCoAAAAJ&hl=zh-CN)   /   [E-mail](mailto:chenye123@sjtu.edu.cn) /     [Github](https://github.com/sjtuchenye)
 
 # News
-[2024/02] __Two papers__ on Image Vectorization and Vector Graphics Generation are accepted to __CVPR2024__! See you in Seattle!  
+[2024/07] __One paper__ on Stroke Based Rendering is accepted to __ACMMM 2024__!  
+[2024/02] __Two papers__ on Image Vectorization and Vector Graphics Generation are accepted to __CVPR 2024__! See you in Seattle!  
 [2023/09] Start my PhD journey with Prof. Bingbing Ni!  
-[2023/07] __One paper__ on Image Vectorization is accepted to __ICCV2023__!  
+[2023/07] __One paper__ on Image Vectorization is accepted to __ICCV 2023__!  
 [2023/04] Journal version of SSC for unsupervised point cloud learning is publised in __T-PAMI__!    
 [2023/03] Obtain master degree with Shanghai Outstanding Graduates from SJTU!  
-[2021/07]  __One paper(SSC)__ on Self-Supervised Point Cloud Learning is accepted to __ICCV2021__!
+[2021/07]  __One paper(SSC)__ on Self-Supervised Point Cloud Learning is accepted to __ICCV 2021__!
 
 
 # Selected Publications
