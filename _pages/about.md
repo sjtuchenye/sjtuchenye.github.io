@@ -13,6 +13,7 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 [Google Scholar](https://scholar.google.com/citations?user=LzqvnCoAAAAJ&hl=zh-CN)   /   [E-mail](mailto:chenye123@sjtu.edu.cn) /     [Github](https://github.com/sjtuchenye)
 
 # News
+[2024/10] I am very honored to be awarded the National PhD Scholarship!
 [2024/07] __One paper__ on Stroke Based Rendering is accepted to __ACMMM 2024__!  
 [2024/02] __Two papers__ on Image Vectorization and Vector Graphics Generation are accepted to __CVPR 2024__! See you in Seattle!  
 [2023/09] Start my PhD journey with Prof. Bingbing Ni!  
@@ -61,6 +62,7 @@ Published in _ECCV, 2020_. [\[Paper\]](https://arxiv.org/pdf/2007.13344)
 
 
 # Selected Honors
+\[2024\] National PhD Scholarship (博士生国家奖学金)
 \[2023\] Shanghai Outstanding Graduates (上海市优秀毕业生).   
 \[2022\] NRIEE Scholarship (中国电子科技集团莱斯奖学金).  
 \[2020\] Shanghai Jiao Tong University Outstanding Graduates.  
