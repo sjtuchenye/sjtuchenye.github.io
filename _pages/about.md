@@ -62,7 +62,7 @@ Published in _ECCV, 2020_. [\[Paper\]](https://arxiv.org/pdf/2007.13344)
 
 
 # Selected Honors
-\[2024\] National PhD Scholarship (博士生国家奖学金)  
+\[2024\] National PhD Scholarship (博士生国家奖学金).    
 \[2023\] Shanghai Outstanding Graduates (上海市优秀毕业生).   
 \[2022\] NRIEE Scholarship (中国电子科技集团莱斯奖学金).  
 \[2020\] Shanghai Jiao Tong University Outstanding Graduates.  
