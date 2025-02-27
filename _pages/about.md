@@ -13,7 +13,7 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 [Google Scholar](https://scholar.google.com/citations?user=LzqvnCoAAAAJ&hl=zh-CN)   /   [E-mail](mailto:chenye123@sjtu.edu.cn) /     [Github](https://github.com/sjtuchenye)
 
 # News
-[2025/02] __Two papers__ on Image Representation/Editing and Neural Fluid Simulation are accepted to __CVPR 2025__!
+[2025/02] __Two papers__ on Image Representation/Editing and Neural Fluid Simulation are accepted to __CVPR 2025__!  
 [2024/11] __One paper__ on Realistic Decal Blending is accepted to __AAAI 2025__!
 [2024/10] I am very honored to be awarded the National PhD Scholarship!   
 [2024/07] __One paper__ on Stroke Based Rendering is accepted to __ACMMM 2024__!  
