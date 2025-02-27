@@ -13,6 +13,8 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 [Google Scholar](https://scholar.google.com/citations?user=LzqvnCoAAAAJ&hl=zh-CN)   /   [E-mail](mailto:chenye123@sjtu.edu.cn) /     [Github](https://github.com/sjtuchenye)
 
 # News
+[2025/02] __Two papers__ on Image Representation/Editing and Neural Fluid Simulation are accepted to __CVPR 2025__!
+[2024/11] __One paper__ on Realistic Decal Blending is accepted to __AAAI 2025__!
 [2024/10] I am very honored to be awarded the National PhD Scholarship!   
 [2024/07] __One paper__ on Stroke Based Rendering is accepted to __ACMMM 2024__!  
 [2024/02] __Two papers__ on Image Vectorization and Vector Graphics Generation are accepted to __CVPR 2024__! See you in Seattle!  
@@ -24,6 +26,10 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 
 
 # Selected Publications
+<font color=green> Easy-editable Image Vectorization with Multi-layer Multi-scale Distributed Visual Feature Embedding  </font>    
+__Ye Chen__, Zhangli Hu, Zhongyin Zhao, Yupeng Zhu, Yue Shi, Yuxuan Xiong, Bingbing Ni.  
+Accepted to _CVPR, 2025_.
+
 <font color=green> Towards High-fidelity Artistic Image Vectorization via Texture-Encapsulated Shape Parameterization </font>    
 __Ye Chen__, Bingbing Ni, Jinfan Liu, Xiaoyang Huang, Xuanhong Chen.  
 Published in _CVPR, 2024_. [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Towards_High-fidelity_Artistic_Image_Vectorization_via_Texture-Encapsulated_Shape_Parameterization_CVPR_2024_paper.pdf)   
