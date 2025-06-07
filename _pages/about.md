@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing Ni](https://scholar.google.com/citations?hl=zh-CN&user=eUbmKwYAAAAJ&view_op=list_works&sortby=pubdate) from School of SEIEE, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). Previously, I received Master and Bachelor degree from the same university with honor, supervised by Prof. Ning Liu and [Prof. Bingbing Ni](https://scholar.google.com/citations?hl=zh-CN&user=eUbmKwYAAAAJ&view_op=list_works&sortby=pubdate). I have published several papers on leading journals and conferences, e.g., CVPR, ICCV, AAAI, and T-PAMI. My research interest lies in the intersection between Graphics, Computer Vision, and Machine Learning, especially includes 2D/3D AIGC and AI for Physics. 
+Hi, there! This is Ye Chen, a second-year PhD student advised by [Prof. Bingbing Ni](https://scholar.google.com/citations?hl=zh-CN&user=eUbmKwYAAAAJ&view_op=list_works&sortby=pubdate) from School of SEIEE, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). Previously, I received Master and Bachelor degree from the same university with honor, supervised by Prof. Ning Liu and [Prof. Bingbing Ni](https://scholar.google.com/citations?hl=zh-CN&user=eUbmKwYAAAAJ&view_op=list_works&sortby=pubdate). I have published several papers on leading journals and conferences, e.g., CVPR, ICCV, AAAI, and T-PAMI. My research interest lies in the intersection between Graphics, Computer Vision, and Machine Learning, especially includes 2D/3D AIGC and AI for Physics. 
 
 [Google Scholar](https://scholar.google.com/citations?user=LzqvnCoAAAAJ&hl=zh-CN)   /   [E-mail](mailto:chenye123@sjtu.edu.cn) /     [Github](https://github.com/sjtuchenye)
 
@@ -28,7 +28,15 @@ Hi, there! This is Ye Chen, a first-year PhD student advised by [Prof. Bingbing 
 # Selected Publications
 <font color=green> Easy-editable Image Vectorization with Multi-layer Multi-scale Distributed Visual Feature Embedding  </font>    
 __Ye Chen__, Zhangli Hu, Zhongyin Zhao, Yupeng Zhu, Yue Shi, Yuxuan Xiong, Bingbing Ni.  
-Accepted to _CVPR, 2025_.
+Published in _CVPR, 2025_. [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Easy-editable_Image_Vectorization_with_Multi-layer_Multi-scale_Distributed_Visual_Feature_Embedding_CVPR_2025_paper.pdf)
+
+<font color=green> AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation </font>    
+Zeyi Xu, Jinfan Liu, Kuangxu Chen, __Ye Chen__, Zhangli Hu, Bingbing Ni.  
+Published in _CVPR, 2025_. [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_AMR-Transformer_Enabling_Efficient_Long-range_Interaction_for_Complex_Neural_Fluid_Simulation_CVPR_2025_paper.pdf)
+
+<font color=green> InstantSticker: Realistic Decal Blending via Disentangled Object Reconstruction </font>    
+Yi Zhang, Xiaoyang Huang, Yishun Dou, Yue Shi, Rui Shi, __Ye Chen__, Bingbing Ni, Wenjun Zhang.  
+Published in _AAAI, 2025_. [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/download/33119/35274)
 
 <font color=green> Towards High-fidelity Artistic Image Vectorization via Texture-Encapsulated Shape Parameterization </font>    
 __Ye Chen__, Bingbing Ni, Jinfan Liu, Xiaoyang Huang, Xuanhong Chen.  
