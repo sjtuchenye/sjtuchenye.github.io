@@ -35,7 +35,7 @@ Zeyi Xu, Jinfan Liu, Kuangxu Chen, __Ye Chen__, Zhangli Hu, Bingbing Ni.
 Published in _CVPR, 2025_. [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_AMR-Transformer_Enabling_Efficient_Long-range_Interaction_for_Complex_Neural_Fluid_Simulation_CVPR_2025_paper.pdf)
 
 <font color=green> Towards Artist-Like Painting Agents with Multi-Granularity Semantic Alignment </font>    
-Zhangli Hu, Ye Chen, Zhongyin Zhao, Jinfan Liu, Bilian Ke, Bingbing Ni.  
+Zhangli Hu, __Ye Chen__, Zhongyin Zhao, Jinfan Liu, Bilian Ke, Bingbing Ni.  
 Published in _ACMMM, 2024_. [\[Paper\]](https://openreview.net/pdf?id=90qmLfduIf)
 
 <font color=green> Towards High-fidelity Artistic Image Vectorization via Texture-Encapsulated Shape Parameterization </font>    
