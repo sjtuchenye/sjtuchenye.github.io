@@ -28,6 +28,14 @@ Hi, there! This is Ye Chen, a second-year PhD student advised by [Prof. Bingbing
 
 
 # Selected Publications
+<font color=green> Vectorized Video Representation with Easy Editing via Hierarchical Spatio-Temporally Consistent Proxy Embedding  </font>    
+__Ye Chen__, Liming Tan, Yupeng Zhu, Yuanbin Wang, Bingbing Ni.  
+_Preprint, Arxiv, 2025_. [\[Paper\]](https://arxiv.org/pdf/2510.12256)
+
+<font color=green> SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation  </font>    
+Hanqi Chen, Zhongyin Zhao, __Ye Chen__, Zhujin Liang, Bingbing Ni.  
+Published in _ACMMM, 2025_. [\[Paper\]](https://arxiv.org/pdf/2509.24299?)
+
 <font color=green> Easy-editable Image Vectorization with Multi-layer Multi-scale Distributed Visual Feature Embedding  </font>    
 __Ye Chen__, Zhangli Hu, Zhongyin Zhao, Yupeng Zhu, Yue Shi, Yuxuan Xiong, Bingbing Ni.  
 Published in _CVPR, 2025_. [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Easy-editable_Image_Vectorization_with_Multi-layer_Multi-scale_Distributed_Visual_Feature_Embedding_CVPR_2025_paper.pdf)
