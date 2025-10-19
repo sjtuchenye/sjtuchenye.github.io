@@ -13,8 +13,8 @@ Hi, there! This is Ye Chen, a second-year PhD student advised by [Prof. Bingbing
 [Google Scholar](https://scholar.google.com/citations?user=LzqvnCoAAAAJ&hl=zh-CN)   /   [E-mail](mailto:chenye123@sjtu.edu.cn) /     [Github](https://github.com/sjtuchenye)
 
 # News
-[2025/10] __One paper__(first author) on video representation and editing is released!
-[2025/07] __Two papers__ on SVG Generation and 3D Animation are accepted to __ACMMM 2025__!
+[2025/10] __One paper__(first author) on video representation and editing is released!  
+[2025/07] __Two papers__ on SVG Generation and 3D Animation are accepted to __ACMMM 2025__!  
 [2025/02] __Two papers__ on Image Representation/Editing and Neural Fluid Simulation are accepted to __CVPR 2025__!  
 [2024/11] __One paper__ on Realistic Decal Blending is accepted to __AAAI 2025__!  
 [2024/10] I am very honored to be awarded the National PhD Scholarship!   
