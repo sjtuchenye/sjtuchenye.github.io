@@ -29,7 +29,7 @@ Hi, there! This is Ye Chen, a third-year PhD student advised by [Prof. Bingbing 
 
 
 # Selected Publications
-<font color=green> Vectorized Video Representation with Easy Editing via Hierarchical Spatio-Temporally Consistent Proxy Embedding  </font>    
+<font color=green> 3DProxyImg: Controllable 3D-Aware Animation Synthesis from Single Image via 2D-3D Aligned Proxy Embedding  </font>    
 Yupeng Zhu\*, Xiongzhen Zhang\*, __Ye Chen__\*, Bingbing Ni.  
 _Preprint, Arxiv, 2025_. [\[Paper\]](http://arxiv.org/abs/2512.15126)
 
