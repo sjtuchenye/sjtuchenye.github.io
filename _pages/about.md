@@ -13,6 +13,7 @@ Hi, there! This is Ye Chen, a third-year PhD student advised by [Prof. Bingbing 
 [Google Scholar](https://scholar.google.com/citations?user=LzqvnCoAAAAJ&hl=zh-CN)   /   [E-mail](mailto:chenye123@sjtu.edu.cn) /     [Github](https://github.com/sjtuchenye)
 
 # News
+[2025/12] __One paper__(co-first author) on 3D-aware image editing and animation is released!  
 [2025/10] __One paper__(first author) on video representation and editing is released!  
 [2025/07] __Two papers__ on SVG Generation and 3D Animation are accepted to __ACMMM 2025__!  
 [2025/02] __Two papers__ on Image Representation/Editing and Neural Fluid Simulation are accepted to __CVPR 2025__!  
@@ -28,6 +29,10 @@ Hi, there! This is Ye Chen, a third-year PhD student advised by [Prof. Bingbing 
 
 
 # Selected Publications
+<font color=green> Vectorized Video Representation with Easy Editing via Hierarchical Spatio-Temporally Consistent Proxy Embedding  </font>    
+Yupeng Zhu\*, Xiongzhen Zhang\*, __Ye Chen__\*, Bingbing Ni.  
+_Preprint, Arxiv, 2025_. [\[Paper\]](http://arxiv.org/abs/2512.15126)
+
 <font color=green> Vectorized Video Representation with Easy Editing via Hierarchical Spatio-Temporally Consistent Proxy Embedding  </font>    
 __Ye Chen__, Liming Tan, Yupeng Zhu, Yuanbin Wang, Bingbing Ni.  
 _Preprint, Arxiv, 2025_. [\[Paper\]](https://arxiv.org/pdf/2510.12256)
