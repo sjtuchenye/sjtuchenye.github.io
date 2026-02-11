@@ -29,6 +29,10 @@ Hi, there! This is Ye Chen, a third-year PhD student advised by [Prof. Bingbing 
 
 
 # Selected Publications
+<font color=green> ProxyImg: Towards Highly-Controllable Image Representation via Hierarchical Disentangled Proxy Embedding </font>  
+__Ye Chen__\*, Yupeng Zhu\*, Xiongzhen Zhang, Zhewen Wan, Yingzhe Li, Wenjun Zhang, Bingbing Ni.   
+_Preprint, Arxiv, 2026_. [\[Paper\]](https://arxiv.org/pdf/2602.01881)  
+
 <font color=green> 3DProxyImg: Controllable 3D-Aware Animation Synthesis from Single Image via 2D-3D Aligned Proxy Embedding  </font>    
 Yupeng Zhu\*, Xiongzhen Zhang\*, __Ye Chen__\*, Bingbing Ni.  
 _Preprint, Arxiv, 2025_. [\[Paper\]](http://arxiv.org/abs/2512.15126)
